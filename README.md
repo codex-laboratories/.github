@@ -1,2 +1,2 @@
-# .github
-Readme of the Codex Laboratories
+# Codex Laboratories
+Welcome to Codex Laboatories
